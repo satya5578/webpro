@@ -1,0 +1,22 @@
+p{
+    color: black;
+    margin:0% 40%;
+ }
+ body{
+     background-color: teal;
+     margin:0% 9%; 
+     }
+ img{ 
+     width:20%;  
+     height:20%;
+     margin:5% 40%;
+     border-radius:3% ; 
+     box-shadow:6px 6px 6px 6px white;
+    } 
+ .child1{
+     background-color: silver;
+     margin: 1% 2%;
+     border-radius:2%;
+     }
+ 
+ 
